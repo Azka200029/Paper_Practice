@@ -25,7 +25,7 @@ class StudentsInMLOps:
         - None
         """
         if count > self.total_strength:
-            print("Error: Cannot drop more students than total strength.")
+            print("Error: CCCCannot drop more students than total strength.")
         else:
             self.total_strength -= count
 
