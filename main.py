@@ -45,4 +45,7 @@ class StudentsInMLOps:
         Returns:
         - str: Name of the class.
         """
+        print("StudentsInMLOps")
         return "StudentsInMLOps"
+    
+    
